@@ -1,3 +1,5 @@
 .terraform
 .terragrunt-cache
-.terraform.lock.hcl'
+.terraform.lock.hcl
+secret_username.json
+secret_password.json
